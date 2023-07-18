@@ -1,2 +1,28 @@
-# cit326-spring23-db-s
-A repository to hold databases used in course CIT326 in spring of 2023 at BYUI.
+### TABLE OF CONTENTS
+---
+* final-project-hatch
+* notes
+* old-db
+* pdf-s
+* sql-queries
+* views
+
+#### final-project-hatch
+---
+- summary
+
+#### notes
+---
+- summary
+
+#### old-db
+---
+- summary
+
+#### pdf-s
+---
+- summary
+
+#### views
+---
+- summary
