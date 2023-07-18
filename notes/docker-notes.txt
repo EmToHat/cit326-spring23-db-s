@@ -1,0 +1,25 @@
+Windows PowerShell
+---------------------
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+### STEP 1
+PS C:\Users\byui-student> 
+
+### STEP 2
+PS C:\Users\byui-student> cd C:\'Program Files'\'Microsoft SQL Server'\MSSQL15.MSSQLSERVER\MSSQL\Backup\week09
+
+ENTER
+
+### STEP 3
+PS C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Backup\week09>
+
+PS C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Backup\week09> docker cp [MACHINE PATHNAME] image_name:[IMAGE PATH]
+
+REPLACE MACHINE PATHNAME & IMAGE PATH
+
+PS C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Backup\week09> docker cp './bowling_full-bak.bak' heuristic_herschel: '/home/bowling_full-bak.bak'
+
+docker cp bowling-league-ex_full-bak.bak heuristic_herschel:/home/bowling-league-ex_full-bak.bak 

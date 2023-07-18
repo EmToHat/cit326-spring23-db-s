@@ -1,0 +1,2 @@
+docker run
+--name hatchinstance -e 'ACCEPT_EULA=Y' -e 'MSSQL_SA_PASSWORD=cit326Password$' -p 49433:1433 -d emcha/cit-class-repository:with_databases_restored
