@@ -1,6 +1,13 @@
+/* HR Database */
+-- This file inserts the info into the tables for the database.
+
 -- Database obtained at this address.
 -- https://www.sqltutorial.org/sql-sample-database/
 -- https://www.sqltutorial.org/wp-content/uploads/2020/04/sqlserver-data.txt 
+-- ---------------------------------------------------------
+
+USE HR_db;
+GO
 -- ---------------------------------------------------------
 
 -- Data for the table regions 

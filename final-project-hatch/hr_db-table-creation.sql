@@ -6,6 +6,16 @@
 -- https://www.sqltutorial.org/wp-content/uploads/2020/04/sqlserver-data.txt 
 -- ---------------------------------------------------------
 
+-- Create HR_db
+CREATE DATABASE HR_db;
+GO
+-- ---------------------------------------------------------
+
+-- Use the HR_db
+USE HR_db;
+GO
+-- ---------------------------------------------------------
+
 -- Regions table
 CREATE TABLE regions (
 	region_id INT IDENTITY(1,1) PRIMARY KEY,
