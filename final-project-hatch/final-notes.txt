@@ -1,0 +1,38 @@
+--
+TEST
+--
+Test Login --
+test_login 
+$87NjEa!@
+
+Test User --
+test_user
+
+Test Login 2 --
+test_login2 
+^9iTn35Has
+
+Test Schemas --
+test_hr
+test_office
+
+DB Role --
+testers
+SELECT on SCHEMA (test_hr)
+SELECT on VIEW (test_view)
+SELECT on TABLE (test_office.departments)
+
+
+--
+FINAL PROJECT
+--
+Login --
+final_test_login
+$87NjEa!@
+
+User --
+final_test_user
+
+Final Project Schemas --
+hr
+office
