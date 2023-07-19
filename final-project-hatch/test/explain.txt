@@ -1,0 +1,11 @@
+Benefits of Docker?
+
+Why are Schemas a good security practice?
+
+Why are views a good security practice?
+
+Why are Roles a good security practice?
+
+What strategies could you explore if the company grows and you were asked to create many database copies for testing purposes or future deployments?
+
+What are some of the factors or options to consider when regarding cloud hosting strategies?

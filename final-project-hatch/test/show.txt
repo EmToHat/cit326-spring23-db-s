@@ -1,0 +1,49 @@
+Show 1.
+final-project-hatch
+GCP Instance
+Container: compassionate_pike
+
+---
+
+Show 2.
+migration method - SSH or scripted commands
+
+---
+
+Show 3.
+hr and office schemas
+SELECT rights on the hr schema for the final_test_user/login
+
+SELECT *
+FROM hr.employees
+
+SELECT *
+FROM office.departments
+
+---
+
+Show 4. 
+View created - joins
+show the view from final_test_user
+
+---
+
+Show 5. 
+DB Role SELECT schema, table and view as well as DENY on other tables. And the Members.
+Show final_running_buddy
+
+--- 
+
+Show 6.
+final_running_buddy and the encrypted column
+
+---
+
+Show 7.
+Backup and Restore DB
+
+---
+
+Show 8. 
+Running Buddy's instance
+
