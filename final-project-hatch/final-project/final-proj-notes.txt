@@ -50,3 +50,11 @@ final_proj_testers
 SELECT on SCHEMA (hr)
 SELECT on VIEW (final_view)
 SELECT on TABLE (office.locations)
+
+
+
+
+
+docker pull mcr.microsoft.com/mssql/server:2019-latest	
+   
+docker run -e ‘ACCEPT_EULA=Y’ -e ‘SA_PASSWORD=cit326Password$’ -p 49433:1433 -d mcr.microsoft.com/mssql/server
